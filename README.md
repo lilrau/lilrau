@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Raul and I'm a 19-year old Brazilian developer(or going to be one). I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
+My name is Raul and I'm a 19-year-old Brazilian developer(or going to be one). I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
 Since my childhood I've been in love with computers, playing with the hardware and stuff, but only in programming I found myself. Here you will find college works, challenges from the web and maybe crazy stuffs from my head. I usually use C and Python.
 
