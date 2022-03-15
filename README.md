@@ -10,6 +10,12 @@ Since my childhood I've been in love with computers, playing with the hardware a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
   
 </a>
+&nbsp;
+<a href="https://discordapp.com/users/246318073815105547">
+  
+  <img src="https://img.icons8.com/color/344/discord--v2.png" align="center" height="50" width="50">
+  
+</a>
 
 ## Languages
 
