@@ -19,5 +19,3 @@ Since my childhood I've been in love with computers, playing with the hardware a
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" width="60">
 </a>
-
-![Snake animation](https://github.com/lilrau/lilrau/blob/output/github-contribution-grid-snake.svg)
