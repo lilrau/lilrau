@@ -19,11 +19,10 @@ Since my childhood I've been in love with computers, playing with the hardware a
 
 ## Languages
 
-<a href="https://www.linkedin.com/in/raul-souza-silva-0634b3231/">
-  
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" height="50" width="60">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" width="60">
-</a>
+<div>
 
 ![snake gif](https://github.com/lilrau/lilrau/blob/output/github-contribution-grid-snake.svg)
