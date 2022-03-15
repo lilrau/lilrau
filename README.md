@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/91678438/158291716-5a2c42dc-d15c-4930-85f4-d7bc4f9d7c69.png" width="300px" />
-</div>
-
 ### Hi there 👋
 
 My name is Raul and I'm a 19-year old Brazilian developer(or going to be one). I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
