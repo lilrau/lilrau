@@ -17,7 +17,7 @@ I've been in love with computers since my childhood, playing with the hardware a
   
 </a>
 
-## Languages
+## Knowledges
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" height="50" width="60">
