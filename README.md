@@ -24,8 +24,6 @@ I've been in love with computers since my childhood, playing with the hardware a
 ## Knowledges
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" height="50" width="60">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" align="center" height="50" width="60">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" height="50" width="60">
