@@ -38,3 +38,7 @@ I've been in love with computers since my childhood, playing with the hardware a
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="50" width="60">
 </div>
+
+## Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrau)](https://github.com/lilrau/github-readme-stats)
