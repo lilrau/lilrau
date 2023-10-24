@@ -42,6 +42,5 @@ I've been in love with computers since my childhood, playing with the hardware a
 ## Statistics
 
 <div align="left">
-  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=lilrau&include_all_commits=true&custom_title=My GB stats:&count_private=true&show_icons=true&hide=issues&theme=cobalt">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=cobalt">  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical">  
 </div>
