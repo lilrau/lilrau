@@ -7,7 +7,7 @@
 
 ```java
 
-from lilrau.dev.raul import heart ❤︎
+from lilrau.dev.raul import myHeart ❤︎
 
 class Raul:
     def __init__(self):
