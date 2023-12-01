@@ -6,7 +6,8 @@
 - 🖌️ Photoshop and stuff like that are my hobbies.
 
 ```java
-from lilrau.dev.raul import heart ❤︎‬
+
+from lilrau.dev.raul import heart ❤︎
 
 class Raul:
     def __init__(self):
@@ -20,6 +21,8 @@ class Raul:
         }
         self.tools = ["VSCode", "Office", "Git", "GitHub"]
         self.hobbies = ["Photoshop", "Music"]
+
+
 ```
 
 
