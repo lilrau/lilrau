@@ -6,24 +6,20 @@
 - 🖌️ Photoshop and stuff like that are my hobbies.
 
 ```java
+from lilrau.dev.raul import heart
 
-package lilrau.dev.raul;
-
-public class Raul {
-    public Raul() {
-        this.name = "Raul Souza";
-        this.age = 21;
-        this.country = "Brazil";
-        this.languages = Arrays.asList("Portuguese", "English");
-        this.code = Map.of(
-                "frontend", Arrays.asList("HTML", "CSS", "JavaScript", "Flutter"),
-                "backend", Arrays.asList("Java", "Python")
-        );
-        this.tools = Arrays.asList("VSCode", "Office", "Git", "GitHub");
-        this.hobbies = Arrays.asList("Photoshop", "Music");
-    }
-}
-
+class Raul:
+    def __init__(self):
+        self.name = "Raul Souza"
+        self.age = 21
+        self.country = "Brazil"
+        self.languages = ["Portuguese", "English"]
+        self.code = {
+            "frontend": ["HTML", "CSS", "JavaScript", "Flutter"],
+            "backend": ["Java", "Python"],
+        }
+        self.tools = ["VSCode", "Office", "Git", "GitHub"]
+        self.hobbies = ["Photoshop", "Music"]
 ```
 
 
