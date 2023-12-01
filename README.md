@@ -40,5 +40,5 @@ I've been in love with computers since my childhood, playing with the hardware a
 ## Statistics
 
 <div align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical">  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical&hide=html">
 </div>
