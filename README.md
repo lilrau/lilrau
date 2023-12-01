@@ -60,9 +60,9 @@ public class Raul {
 
 ## Statistics
 <div align="left">
-  <img alt="Rauls's Github Stats" height=250 src="https://github-readme-stats.vercel.app/api?username=lilrau&theme=radical&rank_icon=github">
+  <img alt="Rauls's Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=lilrau&theme=radical&rank_icon=github">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Rauls's Github Stats" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical&hide=html">
+  <img alt="Rauls's Github Stats" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical&hide=html">
 </div>
 
 ## Chill
