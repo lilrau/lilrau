@@ -27,7 +27,7 @@ class Raul:
 
 
 ## Contact
-<a href="https://www.linkedin.com/in/raul-souza-silva-0634b3231/" target="_blank" >
+<a href="https://www.linkedin.com/in/lilrau/" target="_blank" >
 
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge"/>
 
