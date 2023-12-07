@@ -4,6 +4,7 @@
 - 🎓 I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 - 💻️ Here you will find college works, challenges from the web and maybe crazy stuff from my head.
 - 🖌️ Photoshop and stuff like that are my hobbies.
+- 🤝 Feel free to contact me anytime!
 
 ```java
 
