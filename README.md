@@ -1,7 +1,8 @@
 # Yo, there 👋
 
 - 🪐 My name is Raul and I'm a 21-year-old Brazilian developer.
-- 🎓 I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
+- 💡 I studied 5 semesters of Computer Science, but I chose to switch courses.
+- 🎓 I'm currently studying Analysis and Systems Development at UTFPR (Universidade Tecnológica Federal do Paraná).
 - 💻️ Here you will find college works, challenges from the web and maybe crazy stuff from my head.
 - 🖌️ Photoshop and stuff like that are my hobbies.
 - 🤝 Feel free to contact me anytime!
