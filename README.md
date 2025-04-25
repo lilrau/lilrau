@@ -18,7 +18,7 @@ class Raul:
         self.country = "Brazil"
         self.languages = ["Portuguese", "English"]
         self.code = {
-            "frontend": ["HTML", "CSS", "JavaScript", "React", Next.JS],
+            "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.JS"],
             "backend": ["Java", "Python"],
         }
         self.tools = ["MySQL", "Office", "Git", "GitHub",
