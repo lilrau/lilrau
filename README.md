@@ -1,8 +1,8 @@
 # Yo, there 👋
 
-- 🪐 My name is Raul and I'm a 21-year-old Brazilian developer.
+- 🪐 My name is Raul and I'm a 22-years-old Brazilian developer.
 - 💡 I studied 5 semesters of Computer Science, but I chose to switch courses.
-- 🎓 I'm currently studying Systems Analysis and Development at UTFPR (Universidade Tecnológica Federal do Paraná).
+- 🎓 I'm currently concluding Systems Analysis and Development at UTFPR (Universidade Tecnológica Federal do Paraná).
 - 💻️ Here you will find college works, challenges from the web and maybe crazy stuff from my head.
 - 🖌️ Photoshop and stuff like that are my hobbies.
 - 🤝 Feel free to contact me anytime!
@@ -14,16 +14,16 @@ from lilrau.dev.raul import myHeart ❤︎
 class Raul:
     def __init__(self):
         self.name = "Raul Souza"
-        self.age = 21
+        self.age = 22
         self.country = "Brazil"
         self.languages = ["Portuguese", "English"]
         self.code = {
-            "frontend": ["HTML", "CSS", "JavaScript"],
+            "frontend": ["HTML", "CSS", "JavaScript", "React", Next.JS],
             "backend": ["Java", "Python"],
         }
-        self.tools = ["VSCode", "Office", "Git", "GitHub",
-         "Linux", "MySQL"]
-        self.hobbies = ["Photoshop", "Music"]
+        self.tools = ["MySQL", "Office", "Git", "GitHub",
+         "Linux", "n8n"]
+        self.hobbies = ["Design", "Music"]
 
 
 ```
