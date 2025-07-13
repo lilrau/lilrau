@@ -1,7 +1,7 @@
 # Yo, there 👋
 
 - 🪐 My name is Raul and I'm a 22-years-old Brazilian developer.
-- 💡 I studied 5 semesters of Computer Science, but I chose to switch courses.
+- 💡 I studied 3 years of Computer Science, but I chose to switch courses.
 - 🎓 I'm currently concluding Systems Analysis and Development at UTFPR (Universidade Tecnológica Federal do Paraná).
 - 💻️ Here you will find college works, challenges from the web and maybe crazy stuff from my head.
 - 🖌️ Photoshop and stuff like that are my hobbies.
