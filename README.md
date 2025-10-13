@@ -1,4 +1,4 @@
-# 👋 Yo, there
+# <img src="https://raw.githubusercontent.com/YeLwinOo-Steve/YeLwinOo-Steve/refs/heads/master/assets/icons/Waving%20Hand%20Medium%20Skin%20Tone.png" width="38px"> Yo, there!</b>
 
 - 🪐 My name is Raul, I'm a 22-year-old Brazilian developer.
 - 💡 I studied Computer Science for 3 years before deciding to switch courses.
