@@ -2,10 +2,10 @@
 
 - 🪐 My name is Raul, I'm a 22-year-old Brazilian developer.
 - 💡 I studied Computer Science for 3 years before deciding to switch courses.
-- 🎓 I'm currently finishing my degree in Systems Analysis and Development at UTFPR (Federal University of Technology - Paraná).
 - 💻️ I am a Full Stack Developer with solid experience building scalable web applications and robust solutions, working for both tech companies and freelance projects.
 - 🚀 My focus is on process optimization through automation, complex API integrations, and the development of SaaS/SaaP systems.
 - 🛠️ My main technologies include TypeScript, React, Next.js, and Laravel, which I use to create secure, high-performance solutions.
+- 🎓 I'm currently finishing my degree in Systems Analysis and Development at UTFPR (Federal University of Technology - Paraná).
 - 👨‍🏫 A key differentiator I bring is my solid experience as an educator, which allows me to translate complex requirements into clear language, facilitating communication between teams.
 - 🖌️ Photoshop and digital arts are my hobbies.
 - 🤝 Feel free to contact me anytime!
@@ -17,7 +17,7 @@ from lilrau.dev.raul import myHeart ❤︎
 class Raul:
     def __init__(self):
         self.name = "Raul Souza"
-        self.age = 22
+        self.age = 23
         self.country = "Brazil"
         self.languages = ["Portuguese", "English"]
         self.code = {
