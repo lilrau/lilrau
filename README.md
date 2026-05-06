@@ -41,9 +41,7 @@ class Raul:
 
 ## 📊 Stats
 <div align="left">
-  <img alt="Rauls's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api?username=lilrau&theme=radical&rank_icon=github">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Rauls's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilrau&layout=compact&theme=radical&hide=html,TeX">
+  <img src="https://streak-stats.demolab.com?user=lilrau&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ## 🍃 Chill
