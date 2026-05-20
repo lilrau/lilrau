@@ -39,11 +39,7 @@ jobs:
 
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
 
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          repositories_affiliations: owner, collaborator, organization
 
-          extras_css: |
-            .footer {
-              display: none;
-            }
+          plugin_topics: yes
+          plugin_topics_mode: icons
