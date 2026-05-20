@@ -41,6 +41,8 @@ jobs:
           plugin_languages_indepth: no
 
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_recent_load: 100
+          plugin_languages_recent_days: 14
 
           plugin_topics: yes
           plugin_topics_limit: 0
