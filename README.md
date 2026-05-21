@@ -4,35 +4,35 @@
 <td valign="top">
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│ lilrau@github  ~  [session: active]                            │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│ $ whoami                                                       │
-│ ┌───────────────────────────────────────────────────────────┐  │
-│ │  Raul Souza · MidLevel Full Stack Developer ·  Brazil     │  │
-│ │  Software Analysis and Development — UTFPR                │  │
-│ │  2+ years of End-to-End Web Development, Automation & AI  │  │
-│ │  EF SET English Certificate · C1 Advanced                 │  │
-│ └───────────────────────────────────────────────────────────┘  │
-│                                                                │
-│ $ cat stack.conf                                               │
-│                                                                │
-│ [languages]           Portuguese · English                     │
-│ [frontend]            Next.js · React · TypeScript · Tailwind  │
-│ [backend]             Node.js · PHP · Laravel · REST APIs      │
-│ [data]                SQL · Vector Databases                   │
-│ [ci/cd]               Github Actions                           │
-│ [tools]               n8n · Docker · Git · Linux · Jira        │
-│ [founding]            MoonRock Labs                            │
-│                                                                │
-│ $ cat hobbies.txt                                              │
-│                                                                │
-│ games · anime · design · nature · learning new things  ╱\\_    │
-│                                                       (` - 7   │
-│ $ _                                                   |、 〵    │
-│                                                       じしˍ,)ノ │
-└────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│ lilrau@github  ~  [session: active]                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│ $ whoami                                                 │
+│ ┌─────────────────────────────────────────────────────┐  │
+│ │  Raul Souza · MidLevel FullStack Dev ·  Brazil      │  │
+│ │  Software Analysis and Development — UTFPR          │  │
+│ │  2+ years of End-to-End Web Dev, Automation & AI    │  │
+│ │  EF SET English Certificate · C1 Advanced           │  │
+│ └─────────────────────────────────────────────────────┘  │
+│                                                          │
+│ $ cat stack.conf                                         │
+│                                                          │
+│ [languages]         Portuguese · English                 │
+│ [frontend]          Next · React · TypeScript · Tailwind │
+│ [backend]           Node.js · PHP · Laravel · REST APIs  │
+│ [data]              SQL · Vector Databases               │
+│ [ci/cd]             Github Actions                       │
+│ [tools]             n8n · Docker · Git · Linux · Jira    │
+│ [founding]          MoonRock Labs                        │
+│                                                          │
+│ $ cat hobbies.txt                                        │
+│                                                          │
+│ games · anime · design · nature · discover    ╱\\_       │
+│                                              (` - 7      │
+│ $ _                                          |、 〵       │
+│                                              じしˍ,)ノ    │
+└──────────────────────────────────────────────────────────┘
 ```
 
 </td>
